@@ -80,4 +80,4 @@ int a,b; return 0;
 # OUTPUT
 ![image](https://github.com/user-attachments/assets/ccfee339-5608-4a1c-9728-f35454dc432a)
 # RESULT
-## The lexical analyzer is implemented using lex and the output is verified.
+The lexical analyzer is implemented using lex and the output is verified.
